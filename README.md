@@ -50,6 +50,9 @@ Each task will contain a collection of resources that will be helpful for you as
 
 Fork → Clone → Branch → Implement → PR → Review
 
+## Tech stack
+- Qdrant
+- hnsw search
 * Fork this repo to your own GitHub account
 * Create a new branch for each task (e.g., task-1) if applicable (if there is any code that has to be implemented)
 * Implement the solution based on the markdown descriptions
